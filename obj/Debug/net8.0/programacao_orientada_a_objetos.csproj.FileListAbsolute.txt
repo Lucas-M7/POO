@@ -12,3 +12,4 @@ C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_
 C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.pdb
 C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.genruntimeconfig.cache
 C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\ref\programacao_orientada_a_objetos.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.sourcelink.json
