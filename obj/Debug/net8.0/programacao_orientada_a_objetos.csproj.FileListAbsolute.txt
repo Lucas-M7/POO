@@ -1,0 +1,14 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\bin\Debug\net8.0\programacao_orientada_a_objetos.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\bin\Debug\net8.0\programacao_orientada_a_objetos.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\bin\Debug\net8.0\programacao_orientada_a_objetos.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\bin\Debug\net8.0\programacao_orientada_a_objetos.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\bin\Debug\net8.0\programacao_orientada_a_objetos.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\refint\programacao_orientada_a_objetos.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\programacao_orientada_a_objetos.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\programacao_orientada_a_objetos\obj\Debug\net8.0\ref\programacao_orientada_a_objetos.dll
