@@ -11,7 +11,7 @@ namespace programacao_orientada_a_objetos.Models
         {
         }
 
-        public override void EmitirSom()
+        public override void EmitirSom() //POLIMORFISMO
         {
             Console.WriteLine("MIAU!\n");
         }

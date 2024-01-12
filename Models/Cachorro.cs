@@ -11,9 +11,9 @@ namespace programacao_orientada_a_objetos.Models
         {
         }
 
-        public override void EmitirSom()
+        public override void EmitirSom() //POLIMORFISMO
         {
-            Console.WriteLine("AU AU!\n");
+            Console.WriteLine("AU AU!\n"); 
         }
     }
 }
