@@ -1,6 +1,58 @@
 ﻿using programacao_orientada_a_objetos.Models;
 
-// ABSTRAÇÃO
+
+
+////////////// HERANÇA
+
+Cachorro rex = new Cachorro("Rex");
+Gato jerry = new Gato("Jerry");
+
+Console.WriteLine(rex.Nome);
+rex.EmitirSom();
+
+Console.WriteLine(jerry.Nome);
+jerry.EmitirSom();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////// ABSTRAÇÃO
 
 Carro carro1 = new Carro();
 
@@ -18,9 +70,9 @@ carro2.Preco = 55000M;
 
 // carro2.Acelerar(80);
 
-// ENCAPSULAMENTO
+///////////////////// ENCAPSULAMENTO
 
 ContaCorrente conta1 = new ContaCorrente(123, 20000);
-conta1.ExibirSaldo();
-conta1.Sacar(100);
-conta1.ExibirSaldo();
+//conta1.ExibirSaldo();
+//conta1.Sacar(100);
+//conta1.ExibirSaldo();
